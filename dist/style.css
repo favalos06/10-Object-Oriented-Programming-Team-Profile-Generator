@@ -1,0 +1,22 @@
+h1, h2, h3 {
+  color: white;
+}
+
+/* body {
+  background-color: #343a40;
+} */
+
+body > .container-fluid .row div{
+  background-color: #006b80;
+  border-radius: 0;
+}
+
+.card.employee-card {
+  flex: 1;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+}
+
+.card-header {
+  background-color: #006b80;
+}
