@@ -16,10 +16,10 @@ Using NODE we dynamically create a team.
 - [Deployed Link](#deployed-link)
 
 ## Installation
-It simply requires an 'npm install'
+It simply requires an 'npm i'
 
 ## Usage
-Run 'node index' and answer the prompted questions for all desired team member additions. The html file will generate within the 'dist' folder. 
+Run 'npm start' and answer the prompted questions for all desired team member additions. The html file will generate within the 'dist' folder. To reset the dist folder and delete the generated file, run 'npm reset' in the terminal.
 ![Screenshot of Project](assets/images/screenshot.png)
 
 ## License
@@ -29,7 +29,7 @@ ISC
 Not accepting contributions, but can contact me with any questions.
 
 ## Tests
-
+Run Jest by typing 'npm run test' in the terminal. It should respond with Pass or Fail for all 4 tests.
 
 ## Questions
 * Follow me on [GitHub](https://github.com/favalos06)
