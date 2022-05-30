@@ -1,18 +1,7 @@
 const Employee = require("./Employee");
 
 class Engineer extends Employee {
-  constructor(name, id, email, github) {
-    super(name, id, email);
-    this.github = github;
-  }
-
-  getRole() {
-    return "Engineer";
-  }
-
-  getGithub() {
-    return this.github;
-  }
+  // TODO - Write Engineer class so it satisfies the test cases when running `npm run test`
 }
 
 module.exports = Engineer;
