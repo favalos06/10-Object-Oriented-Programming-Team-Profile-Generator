@@ -26,7 +26,7 @@ Run 'node index' and answer the prompted questions for all desired team member a
 ISC
 
 ## How to Contribute
-not accepting contributions, but can contact me with any questions.
+Not accepting contributions, but can contact me with any questions.
 
 ## Tests
 
